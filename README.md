@@ -3,14 +3,14 @@
 	<img src="https://codeforces.org/s/0/images/codeforces-logo-with-telegram.png" width="120" alt="Codeforces Logo"/>
 	<h1>CP-31 Sheet Solutions</h1>
 	<h3>Difficulty-wise Codeforces Problem Solutions</h3>
-	<p><b>Solving from <a href="https://codeforces.com/blog/entry/110623">TLE Eliminators CP-31 Sheet</a></b></p>
+	<p><b>Solving from <a href="https://www.tle-eliminators.com/cp-sheet">TLE Eliminators CP-31 Sheet</a></b></p>
 </div>
 
 ---
 
 ## 📚 About
 
-This repository contains my solutions to the <b>CP-31 Sheet</b> curated by <a href="https://codeforces.com/blog/entry/110623">TLE Eliminators</a> on Codeforces. The problems are organized by difficulty (800, 900, 1000, ... and more) to help you track your progress and master competitive programming step by step.
+This repository contains my solutions to the <b>CP-31 Sheet</b> curated by <a href="https://www.tle-eliminators.com/">TLE Eliminators</a> on Codeforces. The problems are organized by difficulty (800, 900, 1000, ... and more) to help you track your progress and master competitive programming step by step.
 
 ---
 
